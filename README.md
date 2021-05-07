@@ -1,2 +1,0 @@
-# OSWALSD
-to create file
